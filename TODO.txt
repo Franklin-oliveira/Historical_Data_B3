@@ -1,0 +1,5 @@
+next steps:
+	- make paths portable to different OS usint pathlib
+	- modularize code into .py file 
+	- pass arguments to it via terminal (example: python file.py --argument)
+	- create user interface
