@@ -1,4 +1,12 @@
 next steps:
+
+URGENT:
+	- layout: could not install and use camelot successfully. Try alternatives (like tabula-py) or create a standard procedure to install camelot and its dependencies.
+	  ref:https://blog.chezo.uno/tabula-py-extract-table-from-pdf-into-python-dataframe-6c7acfa5f302
+	
+	- create standard code inside if __name__ == "__main__" block
+	
+IMPROVEMENTS:
 	- make paths portable to different OS usint pathlib
 	- modularize code into .py file 
 	- pass arguments to it via terminal (example: python file.py --argument)
