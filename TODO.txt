@@ -1,8 +1,12 @@
 next steps:
 
+Update: could not resolve issue involving camelot-py and ghostscript (GS coult not find shared library - libgs.so - on my system, but it worked in previous versions). To resolve this, I see two possible approaches:
+	- create a VM with a previous Ubuntu version (<20.04) and try to make this work
+	- or give up on using Camelot and try tabula-py (even though the lattice flavor of camelot produces the best results I know... :/ )
+
 URGENT:
 	- layout: could not install and use camelot successfully. Try alternatives (like tabula-py) or create a standard procedure to install camelot and its dependencies.
-	  ref:https://blog.chezo.uno/tabula-py-extract-table-from-pdf-into-python-dataframe-6c7acfa5f302
+	  (p.s.: didn't work with tabula)
 	
 	- create standard code inside if __name__ == "__main__" block
 	
