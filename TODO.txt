@@ -15,3 +15,12 @@ IMPROVEMENTS:
 	- modularize code into .py file 
 	- pass arguments to it via terminal (example: python file.py --argument)
 	- create user interface
+	
+*****
+Interesting Links about code freeze
+
+- https://docs.python-guide.org/shipping/freezing/
+- https://pyinstaller.readthedocs.io/en/stable/operating-mode.html
+- https://pypi.org/project/bbfreeze/
+- http://www.pyinstaller.org/
+- https://hackernoon.com/the-one-stop-guide-to-easy-cross-platform-python-freezing-part-1-c53e66556a0a
